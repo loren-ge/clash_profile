@@ -1,9 +1,9 @@
 # 内容：Emby分流域名
 # 域名匹配
-# 域名后缀匹配
 # Younoplus
 DOMAIN,plus.younoyes.com
-DOMAIN-SUFFIX,younoyes.com
+# 直连域名不匹配
+# DOMAIN-SUFFIX,younoyes.com
 # 折纸
 DOMAIN,emby101.origamiart.uk
 DOMAIN,cdn.zhezhi.art
