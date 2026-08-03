@@ -2,10 +2,10 @@
 # 域名匹配
 # Younoplus
 DOMAIN,plus.younoyes.com
-# 直连域名不匹配
+# 直连线路不匹配
 # DOMAIN-SUFFIX,younoyes.com
 # 折纸
 DOMAIN,emby101.origamiart.uk
-DOMAIN-SUFFIX,zhezhi.art
+DOMAIN,kkp.zhezhi.art
+# 直连线路不匹配
 # DOMAIN,cdn.zhezhi.art
-# DOMAIN,kkp.zhezhi.art
