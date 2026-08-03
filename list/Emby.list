@@ -6,4 +6,6 @@ DOMAIN,plus.younoyes.com
 # DOMAIN-SUFFIX,younoyes.com
 # 折纸
 DOMAIN,emby101.origamiart.uk
-DOMAIN,cdn.zhezhi.art
+DOMAIN-SUFFIX,zhezhi.art
+# DOMAIN,cdn.zhezhi.art
+# DOMAIN,kkp.zhezhi.art
