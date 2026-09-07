@@ -6,3 +6,13 @@ DOMAIN-SUFFIX,afunapp.com
 DOMAIN,core.qianshouapp.cn
 # QS
 DOMAIN,app.luoshan.club
+# wakoo
+DOMAIN-SUFFIX,wakooclub.com
+# 花选
+DOMAIN-SUFFIX,guangyu.ltd
+# 
+DOMAIN-SUFFIX,whwxkj.cn
+#
+DOMAIN,g3.letv.com
+#
+IP-CIDR,38.175.196.72/24
