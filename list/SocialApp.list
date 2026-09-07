@@ -1,7 +1,7 @@
 # 内容：国内社交软件分流域名
 # 域名匹配
 # 青藤
-DOMAIN,sdkrhby.afunapp.com
+DOMAIN-SUFFIX,afunapp.com
 # 牵手
 DOMAIN,core.qianshouapp.cn
 # QS
