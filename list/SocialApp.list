@@ -1,18 +1,24 @@
-# 内容：国内社交软件分流域名
-# 域名匹配
+# 内容：香港分流规则
 # 青藤
 DOMAIN-SUFFIX,afunapp.com
 # 牵手
-DOMAIN,core.qianshouapp.cn
+DOMAIN-SUFFIX,qianshouapp.cn
 # QS
-DOMAIN,app.luoshan.club
+DOMAIN-SUFFIX,luoshan.club
+#soul
+DOMAIN-SUFFIX,soulapp.cn
 # wakoo
 DOMAIN-SUFFIX,wakooclub.com
 # 花选
 DOMAIN-SUFFIX,guangyu.ltd
-# 
 DOMAIN-SUFFIX,whwxkj.cn
+# 与你
+DOMAIN-SUFFIX,uneed.com
 #
-DOMAIN,g3.letv.com
+DOMAIN-SUFFIX,bspapp.com
+#
+DOMAIN-SUFFIX,cpatrk.net
 #
 IP-CIDR,38.175.196.72/24
+#Nat主机
+DOMAIN-SUFFIX,shlii.io
