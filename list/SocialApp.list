@@ -3,8 +3,8 @@
 DOMAIN-SUFFIX,afunapp.com
 # 牵手（cdn不分流）
 DOMAIN,core.qianshouapp.cn
-# QS
-DOMAIN-SUFFIX,luoshan.club
+# QS（cdn不分流）
+DOMAIN,app.luoshan.club
 #soul
 DOMAIN-SUFFIX,soulapp.cn
 # wakoo
