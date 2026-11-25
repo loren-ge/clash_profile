@@ -1,7 +1,8 @@
 # 内容：香港分流规则
 
 # 青藤
-DOMAIN-SUFFIX,afunapp.com
+#DOMAIN-SUFFIX,afunapp.com
+DOMAIN-SUFFIX,qingteng-inc.com
 # 牵手（cdn不分流）
 DOMAIN,core.qianshouapp.cn
 # QS（cdn不分流）
